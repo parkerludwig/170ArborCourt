@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to 170 Arbor Court
 
-You can use the [editor on GitHub](https://github.com/parkerludwig/170ArborCourt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a 2 bedroom 1 bathroom townhouse. We have loved living here and are moving due to a change in work/school. The monthly HOA Fee ($351 a month) covers property tax; water, sewer, trash and recycling; upkeep of grounds and snow removal; maintenance of roof, siding, and exterior of building; replacement and repair of all original appliances, plumbing, and furnace as needed; 24/7 emergency maintenance; free use of the clubhouse with reservation; and free admission to the Omaha Botanical Lauritzen Gardens. Call, text, or email Parker if you have any questions! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+email: parkerludwig@gmail.com 
+phone: 801-635-5374 
 
-### Markdown
+More information about living at Village Green can be found at: http://www.villagegreentownhouses.com.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parkerludwig/170ArborCourt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
