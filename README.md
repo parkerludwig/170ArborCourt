@@ -1,5 +1,5 @@
 
-# Welcome to 170 Arbor Court
+title: Welcome to 170 Arbor Court
 
 
 
@@ -32,7 +32,7 @@ phone: [801-635-5374](tel:801-635-5374)
 ****
 **Unit can be sold furnished, depending on your preferences.**
 
-  >> - **Washing machine and dryer are included in the asking price.**
+   - **Washing machine and dryer are included in the asking price.**
 
-  >> - **Piano, treadmill, tables, desk, chairs, couch, large memory foam lovesack, and bookshelf can be included.** 
+   - **Piano, treadmill, tables, desk, chairs, couch, large memory foam lovesack, and bookshelf can be included.** 
 
