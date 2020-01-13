@@ -1,18 +1,18 @@
 ## Welcome to 170 Arbor Court
 
--$60,000
+- $60,000
 
 This is a 2 bedroom 1 bathroom townhouse. We have loved living here for the past four years. The monthly HOA Fee ($351 a month) covers property tax; water, sewer, trash and recycling; upkeep of grounds and snow removal; maintenance of roof, siding, and exterior of building; replacement and repair of all original appliances, plumbing, and furnace as needed; 24/7 emergency maintenance; free use of the clubhouse with reservation; and free admission to the Lauritzen Gardens - Omaha Botanical Center. Call, text, or email Parker if you have any questions! 
 
-email: [link](parkerludwig@gmail.com) 
+email: [parkerludwig@gmail.com](parkerludwig@gmail.com) 
 
-phone: [link](801-635-5374) 
+phone: [801-635-5374](801-635-5374) 
 
-More information about living at Village Green can be found at: [link](http://www.villagegreentownhouses.com).
+More information about living at Village Green can be found at: [Village Green Townhouses](http://www.villagegreentownhouses.com).
 
 
 
-**###Highlights**
+### Highlights
 
 New renovations include kitchen countertop, sink, and faucet installed November 2019; bathroom vanity, sink, and faucet installed December 2019; and recent painting.
 
@@ -25,7 +25,7 @@ The reserved parking space is directly in front of the unit.
 
 Unit can be sold furnished, depending on your preferences.
 
--Washing machine and dryer are included in the asking price.
+- Washing machine and dryer are included in the asking price.
 
--Piano, treadmill, tables, desk, chairs, couch, large memory foam lovesack, and bookshelf could be included. 
+- Piano, treadmill, tables, desk, chairs, couch, large memory foam lovesack, and bookshelf could be included. 
 
