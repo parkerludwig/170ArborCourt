@@ -1,4 +1,4 @@
-## Welcome to 170 Arbor Court
+# Welcome to 170 Arbor Court
 
 - $60,000
 
@@ -12,7 +12,7 @@ phone: [801-635-5374](tel:801-635-5374)
 
 
 
-### Highlights
+## Highlights
 
 New renovations include kitchen countertop, sink, and faucet installed November 2019; bathroom vanity, sink, and faucet installed December 2019; and recent painting.
 
