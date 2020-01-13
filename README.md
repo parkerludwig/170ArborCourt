@@ -8,7 +8,7 @@ email: [parkerludwig@gmail.com](parkerludwig@gmail.com)
 
 phone: [801-635-5374](801-635-5374) 
 
-More information about living at Village Green can be found at: [Village Green Townhouses](http://www.villagegreentownhouses.com).
+[Click here](http://www.villagegreentownhouses.com) for more information about living at Village Green.
 
 
 
