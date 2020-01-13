@@ -4,9 +4,9 @@
 
 This is a 2 bedroom 1 bathroom townhouse. We have loved living here for the past four years. The monthly HOA Fee ($351 a month) covers property tax; water, sewer, trash and recycling; upkeep of grounds and snow removal; maintenance of roof, siding, and exterior of building; replacement and repair of all original appliances, plumbing, and furnace as needed; 24/7 emergency maintenance; free use of the clubhouse with reservation; and free admission to the Lauritzen Gardens - Omaha Botanical Center. Call, text, or email Parker if you have any questions! 
 
-email: [parkerludwig@gmail.com](parkerludwig@gmail.com) 
+email: [parkerludwig@gmail.com](mailto:parkerludwig@gmail.com) 
 
-phone: [801-635-5374](801-635-5374) 
+phone: [801-635-5374](tel:801-635-5374) 
 
 [Click here](http://www.villagegreentownhouses.com) for more information about living at Village Green.
 
