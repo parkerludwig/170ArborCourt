@@ -36,3 +36,38 @@ phone: [801-635-5374](tel:801-635-5374)
 
    - **Piano, treadmill, tables, desk, chairs, couch, large memory foam lovesack, and bookshelf can be included.** 
 
+
+****
+![Front door]()
+
+#### Front door, taken from the reserved parking space
+
+****
+![Living room]()
+
+#### Living room
+
+****
+![Kitchen]()
+
+#### Kitchen
+
+****
+![Main bedroom]()
+
+#### Main bedroom
+
+****
+![Second bedroom]()
+
+#### Second bedroom
+
+****
+![Bathroom]()
+
+#### Bathroom
+
+****
+![Basement]()
+
+#### Basement
