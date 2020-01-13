@@ -1,6 +1,6 @@
----
-title: Welcome to 170 Arbor Court
----
+
+# Welcome to 170 Arbor Court
+
 
 
 - **$60,000**
