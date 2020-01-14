@@ -88,6 +88,4 @@ phone: [801-635-5374](tel:801-635-5374)
 ****
 #### Basement
 
-![Basement](IMG_1814.JPG)
-
 ![Basement](IMG_1818.JPG)
