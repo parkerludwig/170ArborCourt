@@ -74,7 +74,7 @@ phone: [801-635-5374](tel:801-635-5374)
 ****
 #### Second bedroom
 
-![Second bedroom](IMG_1796.JPG)
+![Second bedroom](IMG_1796.jpg)
 
 ![Second bedroom](IMG_1804.JPG)
 
