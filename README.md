@@ -16,7 +16,7 @@ phone: [801-635-5374](tel:801-635-5374)
 
 [Click here](http://www.villagegreentownhouses.com) for more information about living at Village Green.
 
-****
+
 
 ## Highlights
 
