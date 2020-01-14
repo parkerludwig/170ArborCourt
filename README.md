@@ -21,7 +21,7 @@ phone: [801-635-5374](tel:801-635-5374)
 ## Highlights
 
 
-****
+
 **New renovations include kitchen countertop, sink, and faucet installed November 2019; bathroom vanity, sink, and faucet installed December 2019; and recent painting.**
 
 ****
@@ -48,7 +48,7 @@ phone: [801-635-5374](tel:801-635-5374)
 
 #### Reserved parking space is visible in bottom left
 
-![Front door](IMG_1319.JPG)
+![Front door](IMG_1319(2).jpg)
 
 ****
 #### Living room
