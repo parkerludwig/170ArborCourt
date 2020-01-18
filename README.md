@@ -81,9 +81,9 @@ phone: [801-635-5374](tel:801-635-5374)
 ****
 #### Bathroom
 
-![Bathroom]()
+![Bathroom](IMG_1975.JPG)
 
-![Bathroom]()
+![Bathroom](IMG_1986.JPG)
 
 ****
 #### Basement
