@@ -71,6 +71,8 @@ phone: [801-635-5374](tel:801-635-5374)
 
 ![Main bedroom](IMG_1789.JPG)
 
+![Main bedroom closet]()
+
 ****
 #### Second bedroom
 
@@ -78,12 +80,21 @@ phone: [801-635-5374](tel:801-635-5374)
 
 ![Second bedroom](IMG_1804.JPG)
 
+1[Second bedroom closet]()
+
 ****
 #### Bathroom
 
 ![Bathroom](IMG_1975(2).jpg)
 
 ![Bathroom](IMG_1986.JPG)
+
+![Bathroom] (IMG_1286(2).jpg)
+
+****
+#### Upstairs hallway closet
+
+![Upstairs hallway closet]()
 
 ****
 #### Basement
