@@ -22,7 +22,7 @@ phone: [801-635-5374](tel:801-635-5374)
 
 
 
-**New renovations include kitchen countertop, sink, and faucet installed November 2019; bathroom vanity, sink, and faucet installed December 2019; and recent painting.**
+**Newest updates include kitchen countertop, sink, and faucet installed November 2019; bathroom vanity, sink, and faucet installed December 2019; and recent painting.**
 
 ****
 **This is a South-facing unit, which gives it great sun exposure.**
