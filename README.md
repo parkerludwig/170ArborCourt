@@ -73,7 +73,7 @@ Lynette: [503-348-3217](tel:503-348-3217)
 
 ![Main bedroom](IMG_1789.JPG)
 
-![Main bedroom closet]()
+![Main bedroom closet](IMG_1998(2).jpg)
 
 ****
 #### Second bedroom
@@ -82,7 +82,7 @@ Lynette: [503-348-3217](tel:503-348-3217)
 
 ![Second bedroom](IMG_1804.JPG)
 
-![Second bedroom closet]()
+![Second bedroom closet](IMG_2016(2).jpg)
 
 ****
 #### Bathroom
@@ -96,7 +96,7 @@ Lynette: [503-348-3217](tel:503-348-3217)
 ****
 #### Upstairs hallway closet
 
-![Upstairs hallway closet]()
+![Upstairs hallway closet](IMG_2024(2).jpg)
 
 ****
 #### Basement
